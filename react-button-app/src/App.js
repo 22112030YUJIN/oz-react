@@ -28,7 +28,6 @@ function App() {
             onClick={() => setDisabled(prev => !prev)}
             >
               on/off
-
             </button>
           </div>
       </header>
