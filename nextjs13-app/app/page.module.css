@@ -1,0 +1,37 @@
+.container{
+  max-width: 36rem;
+  padding: 1rem 1rem;
+  margin: 3rem auto 6rem;
+  border:1px solid black;
+  text-align: center;
+  align-items: center;
+}
+
+.profileImage{
+  border-radius: 50%;
+}
+
+.postcontainer{
+  max-width: 36rem;
+  padding: 1rem 1rem;
+  margin: 3rem auto 6rem;
+  border:1px solid black;
+}
+
+.navList{
+  background-color: black;
+  padding: 10px;
+
+}
+
+.navList a{
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.navList a:hover {
+  text-decoration: underline;
+  
+}
